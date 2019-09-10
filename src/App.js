@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import * as THREE from 'three';
 import './App.css';
 
 const App = () => {
